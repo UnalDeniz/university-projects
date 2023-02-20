@@ -1,0 +1,21 @@
+void* min();
+void* max();
+void* range();
+void* mode();
+void* median();
+void* sum();
+void* a_mean();
+void* h_mean();
+void* s_deviation();
+void* interquartile_range();
+
+int min_value;
+int max_value;
+int range_value;
+int mode_value;
+double median_value;
+int sum_value;
+double a_mean_value;
+double h_mean_value;
+double s_deviation_value;
+double interquartile_range_value;
